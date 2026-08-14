@@ -79,7 +79,4 @@ This repository contains examples and explanations of different **Matplotlib and
 
 **Rahul Kharwar**
 
----
-
-⭐ If you find this project useful, feel free to star the repository!
 
